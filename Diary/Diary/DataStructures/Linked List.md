@@ -25,9 +25,6 @@ Same as insertion but in reverse. Basically transfer the references from the del
 
 #### Searching
 Traverse the list to find the required value.
-
-
-
 ### Advantages
 - Dynamic size - means we don't need to reallocate and deallocate space when changing the list
 - Insertion / Deletion - efficient especially for large lists where you are inserting a lot of data
