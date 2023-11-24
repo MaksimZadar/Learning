@@ -1,0 +1,3 @@
+Similar to a [[Stack]] but it is First-In-First-Out, like a regular queue. You line up first, you get served first...
+
+Some functionality may include a way to queue (Push) and process (Pop) also maybe get a length of the queue.
