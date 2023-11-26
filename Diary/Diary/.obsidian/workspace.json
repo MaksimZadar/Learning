@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataStructures/Queue.md",
+                "file": "DataStructures/Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataStructures/Queue.md",
+                "file": "DataStructures/Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataStructures/Queue.md",
+                "file": "DataStructures/Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataStructures/Queue.md"
+                "file": "DataStructures/Binary Tree.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "b1d4e5f48ba0701f",
   "lastOpenFiles": [
-    "DataStructures/Stack.md",
     "DataStructures/Queue.md",
+    "DataStructures/Binary Tree.md",
+    "DataStructures/Stack.md",
     "DataStructures/Linked List.md",
     "DataStructures"
   ]
