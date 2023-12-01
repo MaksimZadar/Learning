@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insertion", "Insertion\Insertion.csproj", "{14768F81-ECFF-4D31-9D09-DCAC9206F6DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSort", "SelectionSort\SelectionSort.csproj", "{5CD95889-8399-4B10-9B3F-77D4BDFFF751}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{14768F81-ECFF-4D31-9D09-DCAC9206F6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14768F81-ECFF-4D31-9D09-DCAC9206F6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14768F81-ECFF-4D31-9D09-DCAC9206F6DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CD95889-8399-4B10-9B3F-77D4BDFFF751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD95889-8399-4B10-9B3F-77D4BDFFF751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CD95889-8399-4B10-9B3F-77D4BDFFF751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CD95889-8399-4B10-9B3F-77D4BDFFF751}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
